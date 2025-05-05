@@ -1,0 +1,471 @@
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- required meta -->
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <!-- #favicon -->
+      <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+      <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+      <!-- #title -->
+      <title>Charifund | Nonprofit NGO Fundraising HTML5 Template</title>
+      <!-- #keywords -->
+      <meta name="keywords" content="charity, nonprofit, fundraising, donation, html, bootstrap, scss">
+      <!-- #description -->
+      <meta name="description" content="Nonprofit NGO Fundraising HTML5 Template">
+      <!-- google fonts -->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link
+         href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Outfit:wght@100..900&display=swap"
+         rel="stylesheet">
+      <!-- main css -->
+      <link rel="stylesheet" href="assets/css/main.css">
+      <!-- responsive css -->
+      <link rel="stylesheet" href="assets/css/responsive.css">
+      <!-- color themes -->
+      <link rel="stylesheet" href="assets/css/default-theme.css" id="switch-color">
+      <!-- want sticky header -->
+      <link rel="stylesheet" href="assets/css/sticky-header.css">
+      <!-- box layout css -->
+      <link rel="stylesheet" href="assets/css/box-layout.css">
+      <!-- dark mode css -->
+      <link rel="stylesheet" href="assets/css/dark-mode.css">
+      <!-- rtl css -->
+      <link rel="stylesheet" href="assets/css/rtl.css">
+
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Roboto", sans-serif;
+}
+
+.copyright__part{
+	padding: 10px 20px;
+	background: #000000;
+	text-align: center;
+	font-weight: 300;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.copyright__part a{
+	font-size: 14px;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+
+/*feature css starts*/
+.timeline__cover{
+    background: #262e2b;
+    padding: 100px 0;
+    color: #ffffff;
+}
+.timeline__cover .timeline__title{
+    max-width: 840px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 16px;
+}
+.timeline__cover .timeline__title h2{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: -0.5px;
+    text-transform: capitalize;
+    margin-bottom: 16px;
+}
+.timeline__cover .timeline__title p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.8px;
+    color: #959595;
+}
+
+.timeline__cover .timeline{
+    padding-top: 64px;
+}
+.timeline__cover .timeline ul{
+    padding-top: 100px;
+}
+.timeline__cover .timeline ul li {
+	background: #9a9a9a;
+	position: relative;
+	margin: 0 auto;
+	width: 2px;
+	margin-bottom: 48px;
+	list-style-type: none;
+}
+
+.timeline__cover .timeline ul li:last-child {
+	padding-bottom: 7px;
+    width: 0;
+    height: 0;
+}
+
+.timeline__cover .timeline ul li:before {
+	content: '';
+	background: #dc4a38;
+	position: absolute;
+	left: 50%;
+	top: -32px;
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	width: 16px;
+	height: 16px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.timeline__cover .timeline ul li .hidden {
+	opacity: 0;
+}
+
+.timeline__cover .timeline ul li .content {
+	position: relative;
+	top: -100px;
+	width: 289px;
+}
+
+.timeline__cover .timeline ul li .content .badge{
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    display: inline-block;
+    padding: 6px 12px;
+    background: #2dcd71;
+    border-radius: 1000px;
+}
+
+.timeline__cover .timeline ul li .content h3{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #ffffff;
+    margin: 16px 0 8px;
+}
+
+.timeline__cover .timeline ul li .content p{
+	color: #acacac;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.timeline__cover .timeline ul li:nth-child(odd) .content {
+	left: 70px;
+}
+
+.timeline__cover .timeline ul li:nth-child(odd) .content:before {
+	left: -38px;
+}
+
+.timeline__cover .timeline ul li:nth-child(even) .content {
+	left: calc(-289px - 70px);
+}
+
+.timeline__cover .timeline ul li:nth-child(even) .content:before {
+	right: -38px;
+}
+
+/* Media Queries */
+@media screen and (max-width: 1020px) {
+	.timeline__cover .timeline ul li .content {
+		width: 41vw;
+	}
+
+	.timeline__cover .timeline ul li:nth-child(even) .content {
+		left: calc(-41vw - 45px);
+	}
+}
+
+@media screen and (max-width: 700px) {
+    .timeline__cover {
+        padding: 32px 0;
+        background: #27272C;
+    }
+    .timeline__cover .timeline__title {
+        text-align: left;
+    }
+    .timeline__cover .timeline {
+        padding-top: 32px;
+    }
+    .timeline__cover .timeline ul li {
+        margin-left: 48px !important;
+    }
+    .timeline__cover .timeline__title h2 {
+        font-size: 32px;
+        line-height: 44px;
+        letter-spacing: 0.08px;
+    }
+	.timeline__cover .timeline ul li {
+		margin-left: 20px;
+	}
+
+	.timeline__cover .timeline ul li .content {
+		width: calc(100vw - 100px);
+        transition: .2s;
+	}
+
+    .timeline__cover .timeline ul li .content p {
+        min-height: 110px;
+    }
+
+	.timeline__cover .timeline ul li:nth-child(even) .content {
+		left: 38px;
+	}
+
+	.timeline__cover .timeline ul li:nth-child(even) .content:before {
+		left: -33px;
+	}
+    .timeline__cover .timeline ul li:nth-child(odd) .content {
+        left: 38px;
+    }
+}
+
+/* timeline__cover ends */
+      </style>
+   </head>
+   <body >
+      <!--[if lt IE 9]>
+      <p class="browserupgrade">
+         You are using an <strong>outdated</strong> browser. Please
+         <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+         your experience and security.
+      </p>
+      <![endif]-->
+      <div class="page-wrapper">
+         <!-- ==== preloader start ==== -->
+         <div class="preloader">
+            <img src="assets/images/sponsor/favicon.png" alt="Loading..." class="preloader-image">
+         </div>
+         <!-- ==== / preloader end ==== -->
+         <!--Header Import start-->
+         <div id="header-placeholder"></div>
+         <!--header Import end -->
+
+         <section class="timeline__cover">
+            <div class="timeline__title">
+                <h2>Build A Photography Farm</h2>
+            </div>
+            <div class="timeline">
+                <ul>
+                    <li>
+                        <div class="content">
+                            <div class="badge">STEP 1</div>
+                            <h3>Planning & Design</h3>
+                            <p>Identify key attractions on your farm, such as flower fields, barns, and ponds. Ensure accessibility and create themed areas for photoshoots.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <div class="badge">STEP 2</div>
+                            <h3>Planning & Architecture</h3>
+                            <p>Our experts create a structured roadmap, defining system architecture, technology stack, and project milestones for a seamless development process.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <div class="badge">STEP 3</div>
+                            <h3>Development & Implementation</h3>
+                            <p>We bring your vision to life by coding, integrating, and testing features, ensuring performance, scalability, and security.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <div class="badge">STEP 4</div>
+                            <h3>Quality Assurance & Testing</h3>
+                            <p>Our rigorous testing processes, including functional, performance, and security testing, ensure a reliable and high-quality product.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <div class="badge">STEP 5</div>
+                            <h3>Deployment & Maintenance</h3>
+                            <p>After successful deployment, we provide ongoing support, monitoring, and updates to ensure optimal system performance.</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        <div class="copyright__part">
+          <a href="https://bmhhmartin.vercel.app/" target="_blank">&copy; Md H H Martin</a>
+        </div>
+        
+
+
+         <!-- ==== footer start ==== -->
+         <div id="footer-placeholder"></div>
+         <div id="wa-icon-placeholder"></div>
+         <!-- ==== / footer end ==== -->
+        <!-- ==== custom cursor start ==== -->
+         <div class="mouseCursor cursor-outer"></div>
+         <div class="mouseCursor cursor-inner"></div>
+         <!-- ==== / custom cursor end ==== -->
+         <!-- ==== scroll to top start ==== -->
+         <button class="progress-wrap" aria-label="scroll indicator" title="back to top">
+            <span></span>
+            <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+               <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+            </svg>
+         </button>
+         <!-- ==== / scroll to top end ==== -->
+         <!-- ==== color switcher start ==== -->
+         <div class="color-palate" >
+            <button class="color-trigger">
+            <i class="fa-solid fa-gear"></i>
+            </button>
+            <button class="close-color-trigger">
+            <i class="fa-solid fa-xmark"></i>
+            </button>
+            <div class="color-palate-inner">
+               <div class="various-color clearfix">
+                  <h6>Multiple Colors</h6>
+                  <br>
+                  <div class="colors-list">
+                     <span class="palate default-color active" data-theme-file="assets/css/default-theme.css"></span>
+                     <span class="palate blue-color" data-theme-file="assets/css/blue-theme.css"></span>
+                     <span class="palate brown-color" data-theme-file="assets/css/brown-theme.css"></span>
+                     <span class="palate green-color" data-theme-file="assets/css/green-theme.css"></span>
+                     <span class="palate orange-color" data-theme-file="assets/css/orange-theme.css"></span>
+                     <span class="palate purple-color" data-theme-file="assets/css/purple-theme.css"></span>
+                     <span class="palate teal-color" data-theme-file="assets/css/teal-theme.css"></span>
+                     <span class="palate yellow-color" data-theme-file="assets/css/yellow-theme.css"></span>
+                  </div>
+               </div>
+               <h6>RTL Version</h6>
+               <ul class="rtl-version option-box">
+                  <li class="rtl">RTL Version</li>
+                  <li>LTR Version</li>
+               </ul>
+               <h6>Boxed Version</h6>
+               <ul class="box-version option-box">
+                  <li class="box">Boxed</li>
+                  <li>Full width</li>
+               </ul>
+               <h6>Sticky Header</h6>
+               <ul class="header-version option-box">
+                  <li class="box">Yes</li>
+                  <li>No</li>
+               </ul>
+               <h6>Dark Verion</h6>
+               <ul class="dark-version option-box">
+                  <li class="box">Yes</li>
+                  <li>No</li>
+               </ul>
+               <div class="purchase-box">
+                  <p>You will find much more options for colors and styling in admin panel. This color picker is used
+                     only for demonstration purposes.
+                  </p>
+                  <a href="index.html" class="purchase-box__btn">buy now</a>
+               </div>
+            </div>
+         </div>
+         <!-- ==== / color switcher end ==== -->
+      </div>
+
+
+      
+      <!--headerand Footer  Import Script start-->
+      <script>
+        // Include the header dynamically
+        fetch('header.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('header-placeholder').innerHTML = data)
+            .catch(error => console.error('Error loading header:', error));
+
+
+        // Include the footer dynamically
+       fetch('footer.html')
+           .then(response => response.text())
+           .then(data => document.getElementById('footer-placeholder').innerHTML = data)
+           .catch(error => console.error('Error loading footer:', error));
+
+
+        // Include the WhatsApp icon dynamically
+   fetch('wa-icon.html')
+       .then(response => response.text())
+       .then(data => document.getElementById('wa-icon-placeholder').innerHTML = data)
+       .catch(error => console.error('Error loading WhatsApp icon:', error));
+
+    </script>
+  
+    <!--header and Footer Import Script end-->
+
+    
+     
+      <!-- ==== js dependencies start ==== -->
+      <!-- jquery -->
+      <script src="assets/js/jquery-3.7.1.min.js"></script>
+      <!-- bootstrap five js -->
+      <script src="assets/js/bootstrap.bundle.min.js"></script>
+      <!-- nice select js -->
+      <script src="assets/js/jquery.nice-select.min.js"></script>
+      <!-- magnific popup js -->
+      <script src="assets/js/jquery.magnific-popup.min.js"></script>
+      <!-- swiper slider js -->
+      <script src="assets/js/swiper-bundle.min.js"></script>
+      <!-- viewport js -->
+      <script src="assets/js/viewport.jquery.js"></script>
+      <!-- odometer js -->
+      <script src="assets/js/odometer.min.js"></script>
+      <!-- vanilla tilt js -->
+      <script src="assets/js/vanilla-tilt.min.js"></script>
+      <!-- aos js -->
+      <script src="assets/js/aos.js"></script>
+
+      <!-- splittext js -->
+      <script src="assets/js/SplitText.min.js"></script>
+      <!-- scrollto js -->
+      <script src="assets/js/ScrollToPlugin.min.js"></script>
+      <!-- scrolltrigger js -->
+      <script src="assets/js/ScrollTrigger.min.js"></script>
+      <!-- gsap js -->
+      <script src="assets/js/gsap.min.js"></script>
+      <!-- ==== / js dependencies end ==== -->
+      <!-- template settings js -->
+      <script src="assets/js/template-settings.js"></script>
+      <!-- main js -->
+      <script src="assets/js/custom.js"></script>
+
+      <script>
+        $('.content').each( function(i){
+  
+  var bottom_of_object= $(this).offset().top + $(this).outerHeight();
+  var bottom_of_window = $(window).height();
+  
+  if( bottom_of_object > bottom_of_window){
+    $(this).addClass('hidden');
+  }
+});
+
+
+$(window).scroll( function(){
+  $('.hidden').each( function(i){
+      var bottom_of_object = $(this).offset().top + $(this).outerHeight();
+      var bottom_of_window = $(window).scrollTop() + $(window).height();
+  
+      if( bottom_of_window > bottom_of_object ){
+          $(this).animate({'opacity':'1'},700);
+      }
+  });
+});
+
+      </script>
+   </body>
+</html>

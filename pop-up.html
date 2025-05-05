@@ -1,0 +1,160 @@
+<html>
+<head>
+    <style>
+    /* Scoped Popup Styles */
+    .donation-popup h1,
+    .donation-popup h2,
+    .donation-popup a,
+    .donation-popup .close-x {
+		font-family: "Nunito", sans-serif;
+		font-size: 24px;
+        line-height: 1.4;
+        font-weight: bold;
+    }
+
+    .donation-popup p {
+        font-weight: normal;
+        line-height: 1.4;
+    }
+
+    .donation-popup .popup-bg {
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: rgba(0, 0, 0, .7);
+        width: 100%;
+        height: 100vh;
+        z-index: 100;
+        padding: 10%;
+        box-sizing: border-box;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .donation-popup .popup-msg {
+        width: 25%;
+		border-radius: 47px;
+        min-width: 400px;
+        margin: auto;
+        position: relative;
+        z-index: 200;
+        background-color: rgba(255, 255, 255, .9);
+        padding: 2em;
+        text-align: center;
+        transition: all .5s;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .donation-popup .close-x {
+        position: absolute;
+		top: 32px;
+		right: 16px;
+        font-size: 12px;
+        cursor: pointer;
+        background-color: rgba(0, 0, 0, .1);
+        padding: .5em;
+    }
+
+    .donation-popup .popup-msg h2 {
+        color: black;
+        margin: 1em 0 1em;
+    }
+
+    .donation-popup a.give-button {
+        padding: 17px;
+        background-color:#8C52FF;
+        color: #000;
+        border-radius: 100px;
+        display: block;
+        max-width: 200px;
+        text-align: center;
+        text-decoration: none;
+		font-family: inherit;
+		font-size: inherit;
+    }
+
+    .donation-popup .popup-bg {
+        display: none;
+    }
+
+    .donation-popup .fadeup {
+        transform: translateY(0px);
+    }
+	.donation-popup .popup-logo {
+    max-width: 75px; /* Adjust size as needed */
+    display: block;
+    margin: 0 auto 10px; /* Centers the logo and adds spacing below */
+}
+@media screen and (max-width: 768px) {
+    .donation-popup .popup-msg {
+        width: 90%;
+        min-width: auto;
+        padding: 1.5em;
+        border-radius: 20px;
+    }
+
+    /* Adjust logo size on mobile */
+    .donation-popup .popup-logo {
+        max-width: 50px;
+    }
+
+    /* Adjust text size for better readability */
+    .donation-popup h2 {
+        font-size: 20px;
+        margin: 0.8em 0;
+    }
+
+    .donation-popup a.give-button {
+        padding: 14px;
+        max-width: 150px;
+    }
+
+    /* Adjust close button */
+    .donation-popup .close-x {
+        top: 20px;
+        right: 12px;
+        font-size: 10px;
+        padding: 0.4em;
+    }
+}
+    </style>
+</head>
+<body>
+
+<!-- Scoped Popup Structure -->
+<div class="donation-popup">
+    <div class="popup-bg">
+        <div class="popup-msg">
+			<img src="assets/images/logo.jpg" alt="Logo" class="popup-logo"> 
+            <div class="close-x">close</div>
+            <h2>Your support can create a sustainable, cruelty-free future!</h2>
+            <a class="give-button" href="https://rzp.io/rzp/support-FNY">Donate Today</a>
+        </div>
+    </div>
+</div>
+
+<script src="assets/js/jquery-3.7.1.min.js"></script>
+
+<script>
+    // Ensure the popup script is scoped correctly
+    $(document).ready(function(){
+        setTimeout(function(){
+            $(".donation-popup .popup-bg").fadeIn(1000);
+        }, 30000); // Show after 30 seconds
+
+        $(".donation-popup .popup-bg").on('click', function() {
+            $(this).fadeOut(1000);
+        });
+
+        $(".donation-popup .close-x").on('click', function() {
+            $(".donation-popup .popup-bg").fadeOut(1000);
+        });
+    });
+</script>
+
+</body>
+</html>

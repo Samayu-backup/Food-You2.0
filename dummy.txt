@@ -1,0 +1,406 @@
+ <!--Testimonials start-->
+         <section class="testimonial-three">
+            <div class="container">
+               <div class="row justify-content-center">
+                  <div class="col-12 col-md-8 col-xl-7">
+                     <div class="section__header text-center aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
+                        <span class="sub-title"><i class="icon-donation"></i>Start donating poor
+                        people</span>
+                        <h2 class="title-animation"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">h</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">t</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">r</div></div> <span><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">C</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">s</div></div></span> <div style="position:relative;display:inline-block;"> <div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">S</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">y</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">b</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">t</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">r</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">V</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">s</div></div></h2>
+                     </div>
+                  </div>
+               </div>
+               <div class="row justify-content-center">
+                  <div class="col-12 col-lg-10 col-xl-9 col-xxl-12">
+                     <div class="testimonial-three__inner">
+                        <div class="testimonial-three__slider swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+                           <div class="swiper-wrapper" id="swiper-wrapper-aba4810e6cfe8f2d5" aria-live="off" style="transition-duration: 1000ms; transform: translate3d(-1320px, 0px, 0px);">
+                              
+                              
+                              
+                              
+                           <div class="swiper-slide" role="group" aria-label="1 / 4" data-swiper-slide-index="0" style="width: 636px; margin-right: 24px;">
+                                 <!-- <div class="testimonial-three__single">
+                                    <div class="thumb">
+                                       <img src="assets/images/author-three.png" alt="Image">
+                                       <div class="review">
+                                          <i class="icon-star"></i>
+                                          <i class="icon-star"></i>
+                                          <i class="icon-star"></i>
+                                          <i class="icon-star"></i>
+                                          <i class="icon-star"></i>
+                                       </div>
+                                    </div>
+                                    <div class="testimonial-three__content">
+                                       <div class="author-info">
+                                          <div class="author-content">
+                                             <h6>Anita Balaji</h6>
+                                         </div>
+                                          <div class="quote">
+                                             <i class="icon-quotation-two"></i>
+                                          </div>
+                                       </div>
+                                       <p>I came across Awaana by Shruti Sethi, when I was diagnosed with Non-Hodgkin’s lymphoma. The holistic approach appealed to me and I decided to enroll. The team guided me dedicatedly and efficiently during, before and after my treatment. I could stay positive and healthy throughout because of the diet, yoga therapy and mental health sessions. Now I have completed my treatment and I am in remission! I am still working with the team as I want to keep up my progress and stay healthy forever. Thanks to Awaana!</p>
+                                    </div>
+                                 </div> -->
+                              </div>
+                              <div class="swiper-slide swiper-slide-prev" role="group" aria-label="2 / 4" data-swiper-slide-index="1" style="width: 636px; margin-right: 24px;">
+                                 <!-- <div class="testimonial-three__single">
+                                    <div class="thumb">
+                                       <img src="assets/images/author-four.png" alt="Image">
+                                       <div class="review">
+                                          <i class="icon-star"></i>
+                                          <i class="icon-star"></i>
+                                          <i class="icon-star"></i>
+                                          <i class="icon-star"></i>
+                                          <i class="icon-star"></i>
+                                       </div>
+                                    </div>
+                                    <div class="testimonial-three__content">
+                                       <div class="author-info">
+                                          <div class="author-content">
+                                             <h6>Sunil & Chirag (Father & Son)</h6>
+                                          </div>
+                                          <div class="quote">
+                                             <i class="icon-quotation-two"></i>
+                                          </div>
+                                       </div>
+                                       <p>I extend my gratitude to Purple Cabbage. My father was diabetic for a very long time and his HbA1c was 9.6 with medications. I really wanted him to change his lifestyle and soon get away from his medications. So we decided to go for a nutritionist. 
+
+                                          After consulting Purple Cabbage, within just 2 months his HbA1c came down to 6.9. Sana has been very supportive & patient every time I called her. She treated my father like her family member, her personal guidance, her continuous follow-ups, and her positive attitude, made us believe that yes diabetes can be reversed with proper diet. Thank You.</p>
+                                    </div>
+                                 </div> -->
+                              </div>
+                              <div class="swiper-slide swiper-slide-active" role="group" aria-label="3 / 4" data-swiper-slide-index="2" style="width: 636px; margin-right: 24px;">
+                                 <div class="testimonial-three__single">
+                                    <div class="testimonial-three__content">
+                                       <div class="author-info">
+                                          <div class="author-content">
+                                             <h3>Sunil & Chirag (Father & Son)</h3>
+                                          </div>
+                                          <div class="quote">
+                                             <i class="icon-quotation-two"></i>
+                                          </div>
+                                       </div>
+                                       <p>I extend my gratitude to Purple Cabbage. My father was diabetic for a very long time and his HbA1c was 9.6 with medications. I really wanted him to change his lifestyle and soon get away from his medications. So we decided to go for a nutritionist. 
+
+                                          After consulting Purple Cabbage, within just 2 months his HbA1c came down to 6.9. Sana has been very supportive & patient every time I called her. She treated my father like her family member, her personal guidance, her continuous follow-ups, and her positive attitude, made us believe that yes diabetes can be reversed with proper diet. Thank You.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="swiper-slide swiper-slide-next" role="group" aria-label="4 / 4" data-swiper-slide-index="3" style="width: 636px; margin-right: 24px;">
+                                 <div class="testimonial-three__single">
+                                    <div class="testimonial-three__content">
+                                       <div class="author-info">
+                                          <div class="author-content">
+                                             <h3>Anita Balaji</h3>
+                                         </div>
+                                          <div class="quote">
+                                             <i class="icon-quotation-two"></i>
+                                          </div>
+                                       </div>
+                                       <p>I came across Awaana by Shruti Sethi, when I was diagnosed with Non-Hodgkin’s lymphoma. The holistic approach appealed to me and I decided to enroll. The team guided me dedicatedly and efficiently during, before and after my treatment. I could stay positive and healthy throughout because of the diet, yoga therapy and mental health sessions. Now I have completed my treatment and I am in remission! I am still working with the team as I want to keep up my progress and stay healthy forever. Thanks to Awaana!</p>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-12">
+                     <div class="slider-navigation">
+                        <button type="button" aria-label="Previous slide" title="prev slide" class="prev-testimonial-three slider-btn" tabindex="0" aria-controls="swiper-wrapper-aba4810e6cfe8f2d5" fdprocessedid="1me65r">
+                        <i class="fa-solid fa-arrow-left"></i>
+                        </button>
+                        <button type="button" aria-label="Next slide" title="next slide" class="next-testimonial-three slider-btn slider-btn-next" tabindex="0" aria-controls="swiper-wrapper-aba4810e6cfe8f2d5" fdprocessedid="zzsuay">
+                        <i class="fa-solid fa-arrow-right"></i>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="spade">
+               <img src="assets/images/community/spade.png" alt="Image" class="base-img">
+            </div>
+            <div class="spade-green">
+               <img src="assets/images/sprade-green.png" alt="Image">
+            </div>
+         </section>
+         <!--Testimonials end-->
+
+         <!--team section-->
+          <section class="team">
+            <div class="container">
+               <div class="row justify-content-center">
+                  <div class="col-12 col-lg-10 col-xl-6">
+                     <div class="section__header text-center" data-aos="fade-up" data-aos-duration="1000">
+                        <!-- <span class="sub-title"><i class="icon-donation"></i>Start donating poor
+                        people</span> -->
+                        <h2 class="title-animation">Meet Our Volunteer
+                           <span>Team</span> members
+                        </h2>
+                     </div>
+                  </div>
+               </div>
+               <div class="row gutter-40">
+                  <div class="col-12 col-sm-6 col-xl-3">
+                     <div class="team__single-wrapper" data-aos="fade-up" data-aos-duration="1000">
+                        <div class="team__single van-tilt">
+                           <div class="team__single-thumb">
+                              <a href="our-team.html">
+                              <img src="assets/images/team/Varda Mehrotra.jpg" alt="Varda">
+                              </a>
+                              <div class="team__icons">
+                                 <div class="team__single-content__icon">
+                                    <i class="fa-solid fa-plus"></i>
+                                 </div>
+                                 <div class="team__single__thumb-social">
+                                    <ul>
+                                       <li>
+                                          <a href="https://www.linkedin.com/in/varda-mehrotra-26a056291/">
+                                          <i class="fa-brands fa-linkedin-in"></i>
+                                          </a>
+                                       </li>
+                                       <li>
+                                          <a href="mailto:varda@samayu.org">
+                                          <i class="fa-brands fa-envelope"></i>
+                                          </a>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="team__single-content">
+                              <h3><a href="our-team.html">Varda Mehrotra</a></h3>
+                              <p>Co-Founder</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-sm-6 col-xl-3">
+                     <div class="team__single-wrapper" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="300">
+                        <div class="team__single van-tilt">
+                           <div class="team__single-thumb">
+                              <a href="our-team.html">
+                              <img src="assets/images/team/Anuj Neemi.jpg" alt="Anuj">
+                              </a>
+                              <div class="team__icons">
+                                 <div class="team__single-content__icon">
+                                    <i class="fa-solid fa-plus"></i>
+                                 </div>
+                                 <div class="team__single__thumb-social">
+                                    <ul>
+                                       <li>
+                                          <a href="https://www.linkedin.com/in/anuj-neemi-814a9728/">
+                                          <i class="fa-brands fa-linkedin-in"></i>
+                                          </a>
+                                       </li>
+                                       <li>
+                                          <a href="mailto:anuj@samayu.org">
+                                          <i class="fa-brands fa-envelope"></i>
+                                          </a>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="team__single-content">
+                              <h3><a href="our-team.html">Anuj Neemi</a></h3>
+                              <p>Board Secretary</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-sm-6 col-xl-3">
+                     <div class="team__single-wrapper" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="600">
+                        <div class="team__single van-tilt">
+                           <div class="team__single-thumb">
+                              <a href="our-team.html">
+                              <img src="assets/images/team/Namrata Das.jpg" alt="Namrata">
+                              </a>
+                              <div class="team__icons">
+                                 <div class="team__single-content__icon">
+                                    <i class="fa-solid fa-plus"></i>
+                                 </div>
+                                 <div class="team__single__thumb-social">
+                                    <ul>
+                                       <li>
+                                          <a href="https://www.linkedin.com/in/namratadas-/">
+                                          <i class="fa-brands fa-linkedin-in"></i>
+                                          </a>
+                                       </li>
+                                       <li>
+                                          <a href="mailto:namrata@samayu.org">
+                                          <i class="fa-brands fa-envelope"></i>
+                                          </a>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="team__single-content">
+                              <h3><a href="our-team.html">Namrata Das</a></h3>
+                              <p>Manager - Partnerships & Campaigns</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-sm-6 col-xl-3">
+                     <div class="team__single-wrapper" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="600">
+                        <div class="team__single van-tilt">
+                           <div class="team__single-thumb">
+                              <a href="our-team.html">
+                              <img src="assets/images/team/Dr Debajyoti.jpg" alt="Dr-Debajyoti">
+                              </a>
+                              <div class="team__icons">
+                                 <div class="team__single-content__icon">
+                                    <i class="fa-solid fa-plus"></i>
+                                 </div>
+                                 <div class="team__single__thumb-social">
+                                    <ul>
+                                       <li>
+                                          <a href="https://www.linkedin.com/in/dr-debajyoti-chaterjee-74935a140/">
+                                          <i class="fa-brands fa-linkedin-in"></i>
+                                          </a>
+                                       </li>
+                                       <li>
+                                          <a href="mailto:debajyoti@samayu.org">
+                                          <i class="fa-brands fa-envelope"></i>
+                                          </a>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="team__single-content">
+                              <h3><a href="our-team.html">Dr Debajyoti Mukherjee</a></h3>
+                              <p>Director of Programs</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-sm-6 col-xl-3">
+                     <div class="team__single-wrapper" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="600">
+                        <div class="team__single van-tilt">
+                           <div class="team__single-thumb">
+                              <a href="our-team.html">
+                              <img src="assets/images/team/Anusha.jpg" alt="Anusha">
+                              </a>
+                              <div class="team__icons">
+                                 <div class="team__single-content__icon">
+                                    <i class="fa-solid fa-plus"></i>
+                                 </div>
+                                 <div class="team__single__thumb-social">
+                                    <ul>
+                                       <li>
+                                          <a href="https://www.linkedin.com/in/anusha-narain/">
+                                          <i class="fa-brands fa-linkedin-in"></i>
+                                          </a>
+                                       </li>
+                                       <li>
+                                          <a href="mailto:anusha@samayu.org">
+                                          <i class="fa-brands fa-envelope"></i>
+                                          </a>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="team__single-content">
+                              <h3><a href="our-team.html">Anusha Narain</a></h3>
+                              <p>Partnerships & Campaigns Associate </p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-sm-6 col-xl-3">
+                     <div class="team__single-wrapper" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="600">
+                        <div class="team__single van-tilt">
+                           <div class="team__single-thumb">
+                              <a href="our-team.html">
+                              <img src="assets/images/team/Shubham Dhiman.jpg" alt="Shubham">
+                              </a>
+                              <div class="team__icons">
+                                 <div class="team__single-content__icon">
+                                    <i class="fa-solid fa-plus"></i>
+                                 </div>
+                                 <div class="team__single__thumb-social">
+                                    <ul>
+                                       <li>
+                                          <a href="https://www.linkedin.com/in/dsavvyman/">
+                                          <i class="fa-brands fa-linkedin-in"></i>
+                                          </a>
+                                       </li>
+                                       <li>
+                                          <a href="mailto:shubham@samayu.org">
+                                          <i class="fa-brands fa-envelope"></i>
+                                          </a>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="team__single-content">
+                              <h3><a href="our-team.html">Shubham Dhiman </a></h3>
+                              <p>Assistant Manager - Comm.  & IT</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-sm-6 col-xl-3">
+                     <div class="team__single-wrapper" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="600">
+                        <div class="team__single van-tilt">
+                           <div class="team__single-thumb">
+                              <a href="our-team.html">
+                              <img src="assets/images/team/pearl-fny.jpg" alt="Pearl">
+                              </a>
+                              <div class="team__icons">
+                                 <div class="team__single-content__icon">
+                                    <i class="fa-solid fa-plus"></i>
+                                 </div>
+                                 <div class="team__single__thumb-social">
+                                    <ul>
+                                       <li>
+                                          <a href="https://www.linkedin.com/in/pearl-528b791a2/">
+                                          <i class="fa-brands fa-linkedin-in"></i>
+                                          </a>
+                                       </li>
+                                       <li>
+                                          <a href="mailto:pearl@samayu.org">
+                                          <i class="fa-brands fa-envelope"></i>
+                                          </a>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="team__single-content">
+                              <h3><a href="our-team.html">Pearl </a></h3>
+                              <p>Digital Platforms and IT Associate</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  
+               </div>
+               <div class="row">
+                  <div class="col-12">
+                     <!-- <div class="section__cta cta text-center">
+                        <a href="our-team.html" aria-label="our team" title="our team" class="btn--primary">View All
+                        <i class="fa-solid fa-arrow-right"></i></a>
+                     </div> -->
+                  </div>
+               </div>
+            </div>
+            <div class="spade">
+               <img src="assets/images/sprade-green.png" alt="Image">
+            </div>
+         </section>
